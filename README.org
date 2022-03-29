@@ -1,0 +1,23 @@
+#+TITLE: Readme
+
+Collection of links to data set sources to experiment with in visualization/sonification projects.
+
+Started 29 Mar 2022 20:07.
+
+Contributors:
+
+- Tania Tsiridou
+- Vasilis Agiomyrgianakis
+- Iannis Zannos
+
+https://www.swpc.noaa.gov/products/real-time-solar-wind
+
+https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/
+
+https://www.swpc.noaa.gov/products/real-time-solar-wind
+
+https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Protein&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202,%20taxid:2697049
+
+https://www.ncbi.nlm.nih.gov/protein/YP_009742608.1?report=fasta
+
+https://ibo.certh.gr/open-datasets/
