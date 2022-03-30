@@ -21,3 +21,13 @@ https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Protein&VirusLine
 https://www.ncbi.nlm.nih.gov/protein/YP_009742608.1?report=fasta
 
 https://ibo.certh.gr/open-datasets/
+
+* TT 30 Mar 2022 22:22
+:PROPERTIES:
+:DATE_DONE: [2022-03-30 Wed 22:22]
+:END:
+Data from: PAN-EUROPEAN INFRASTRUCTURE FOR OCEAN & MARINE DATA MANAGEMENT
+https://www.seadatanet.org/
+
+Data from: Hellenic National Oceanographic Data Centre
+http://mapserver.ath.hcmr.gr/pagin/v27/
