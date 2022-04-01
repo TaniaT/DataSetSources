@@ -28,6 +28,7 @@ https://ibo.certh.gr/open-datasets/
 :END:
 Data from: PAN-EUROPEAN INFRASTRUCTURE FOR OCEAN & MARINE DATA MANAGEMENT
 https://www.seadatanet.org/
-
 Data from: Hellenic National Oceanographic Data Centre
 http://mapserver.ath.hcmr.gr/pagin/v27/
+
+Streaming Live Weather Data: learn how to stream live weather data into any SAS Event Stream Processing (ESP) model: https://github.com/sassoftware/iot-streaming-live-weather-data
